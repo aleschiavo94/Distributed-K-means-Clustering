@@ -1,0 +1,115 @@
+n = 1000 d = 3 k = 7 
+Cluster:  1  Value Range Start:  0  Vale Range End  200
+Cluster:  2  Value Range Start:  250  Vale Range End  450
+Cluster:  3  Value Range Start:  500  Vale Range End  700
+Cluster:  4  Value Range Start:  750  Vale Range End  950
+Cluster:  5  Value Range Start:  1000  Vale Range End  1200
+Cluster:  6  Value Range Start:  1250  Vale Range End  1450
+Cluster:  7  Value Range Start:  1500  Vale Range End  1700 
+
+RESLUTS: 
+OUTPUT CENTER: 220.599 217.813 229.599
+OUTPUT CENTER: 590.872 590.214 599.408
+OUTPUT CENTER: 803.784 856.817 857.276
+OUTPUT CENTER: 901.862 839.856 853.297
+OUTPUT CENTER: 1099.614 1098.250 1098.103
+OUTPUT CENTER: 1353.205 1349.617 1350.006
+OUTPUT CENTER: 1594.230 1601.612 1608.838
+
+
+n = 1000 d = 3 k = 13 
+Cluster:  1  Value Range Start:  0  Vale Range End  200
+Cluster:  2  Value Range Start:  250  Vale Range End  450
+Cluster:  3  Value Range Start:  500  Vale Range End  700
+Cluster:  4  Value Range Start:  750  Vale Range End  950
+Cluster:  5  Value Range Start:  1000  Vale Range End  1200
+Cluster:  6  Value Range Start:  1250  Vale Range End  1450
+Cluster:  7  Value Range Start:  1500  Vale Range End  1700
+Cluster:  8  Value Range Start:  1750  Vale Range End  1950
+Cluster:  9  Value Range Start:  2000  Vale Range End  2200
+Cluster:  10  Value Range Start:  2250  Vale Range End  2450
+Cluster:  11  Value Range Start:  2500  Vale Range End  2700
+Cluster:  12  Value Range Start:  2750  Vale Range End  2950
+Cluster:  13  Value Range Start:  3000  Vale Range End  3200
+
+RESLUTS:
+OUTPUT CENTER: 95.70716666666665 108.00565384615388 102.36758974358979
+OUTPUT CENTER: 468.72222068965516 460.73287586206914 463.652427586207
+OUTPUT CENTER: 831.0898235294117 839.1276823529415 831.5286235294118
+OUTPUT CENTER: 1076.4383448275862 1107.4235172413794 1153.5359655172413
+OUTPUT CENTER: 1120.382157894737 1160.3818947368422 1061.5710526315788
+OUTPUT CENTER: 1119.9980689655172 1048.656448275862 1052.2016206896549
+OUTPUT CENTER: 1602.9214230769228 1598.8203589743594 1603.0518333333328
+OUTPUT CENTER: 1301.9211489361699 1348.3457234042548 1350.977744680851
+OUTPUT CENTER: 1397.7813333333334 1351.618 1325.8819333333336
+OUTPUT CENTER: 1976.2530718954235 1977.6252745098047 1975.9225620915029
+OUTPUT CENTER: 2465.62625 2467.288848684211 2467.9836447368425
+OUTPUT CENTER: 3095.588986842106 3097.3975789473693 3107.675736842105
+OUTPUT CENTER: 2846.118443037974 2848.902443037973 2855.8403544303806
+
+
+
+n = 10000 d = 7 k = 7
+Cluster:  1  Value Range Start:  0  Vale Range End  100
+Cluster:  2  Value Range Start:  150  Vale Range End  250
+Cluster:  3  Value Range Start:  300  Vale Range End  400
+Cluster:  4  Value Range Start:  450  Vale Range End  550
+Cluster:  5  Value Range Start:  600  Vale Range End  700
+Cluster:  6  Value Range Start:  750  Vale Range End  850
+Cluster:  7  Value Range Start:  900  Vale Range End  1000
+RESULTS:
+OUTPUT CENTER: 199.56555213435993 199.2997361791465 199.54258222533218 199.30360321903424 199.7395486354093 198.35386773967795 199.89951224632622
+OUTPUT CENTER: 49.17160041987401 49.42639328201536 50.04221203638907 49.93988523442976 50.68723303009098 49.97071028691387 51.09196221133655
+OUTPUT CENTER: 424.1969380685794 425.2683250524836 425.2353247025886 425.52092967109894 424.78445591322605 425.54508292512185 426.23694961511546
+OUTPUT CENTER: 725.2056114805737 724.6358424921247 724.4322628631427 724.7260805040252 725.515073503676 725.1260910045497 724.5730665033251
+OUTPUT CENTER: 954.3804872727267 947.3079381818187 947.094303636364 952.803043636363 951.237952727272 980.7523999999997 950.4491127272721
+OUTPUT CENTER: 949.3225053078554 952.7557473460716 974.5547515923571 955.8072781316346 945.8114777070053 932.604244161359 956.7682356687895
+OUTPUT CENTER: 945.7751674876852 947.9367660098519 924.0611428571436 942.1217487684734 952.832657635468 928.9028694581275 943.7515418719212
+
+
+
+n = 10000 d = 7 k = 13
+Cluster:  1  Value Range Start:  0  Vale Range End  100
+Cluster:  2  Value Range Start:  150  Vale Range End  250
+Cluster:  3  Value Range Start:  300  Vale Range End  400
+Cluster:  4  Value Range Start:  450  Vale Range End  550
+Cluster:  5  Value Range Start:  600  Vale Range End  700
+Cluster:  6  Value Range Start:  750  Vale Range End  850
+Cluster:  7  Value Range Start:  900  Vale Range End  1000
+Cluster:  8  Value Range Start:  1050  Vale Range End  1150
+Cluster:  9  Value Range Start:  1200  Vale Range End  1300
+Cluster:  10  Value Range Start:  1350  Vale Range End  1450
+Cluster:  11  Value Range Start:  1500  Vale Range End  1600
+Cluster:  12  Value Range Start:  1650  Vale Range End  1750
+Cluster:  13  Value Range Start:  1800  Vale Range End  1900
+
+n = 100000 d = 3 k = 13
+Cluster:  1  Value Range Start:  0  Vale Range End  300
+Cluster:  2  Value Range Start:  350  Vale Range End  650
+Cluster:  3  Value Range Start:  700  Vale Range End  1000
+Cluster:  4  Value Range Start:  1050  Vale Range End  1350
+Cluster:  5  Value Range Start:  1400  Vale Range End  1700
+Cluster:  6  Value Range Start:  1750  Vale Range End  2050
+Cluster:  7  Value Range Start:  2100  Vale Range End  2400
+Cluster:  8  Value Range Start:  2450  Vale Range End  2750
+Cluster:  9  Value Range Start:  2800  Vale Range End  3100
+Cluster:  10  Value Range Start:  3150  Vale Range End  3450
+Cluster:  11  Value Range Start:  3500  Vale Range End  3800
+Cluster:  12  Value Range Start:  3850  Vale Range End  4150
+Cluster:  13  Value Range Start:  4200  Vale Range End  4500
+
+
+n = 100000 d = 7 k = 13
+Cluster:  1  Value Range Start:  0  Vale Range End  300
+Cluster:  2  Value Range Start:  350  Vale Range End  650
+Cluster:  3  Value Range Start:  700  Vale Range End  1000
+Cluster:  4  Value Range Start:  1050  Vale Range End  1350
+Cluster:  5  Value Range Start:  1400  Vale Range End  1700
+Cluster:  6  Value Range Start:  1750  Vale Range End  2050
+Cluster:  7  Value Range Start:  2100  Vale Range End  2400
+Cluster:  8  Value Range Start:  2450  Vale Range End  2750
+Cluster:  9  Value Range Start:  2800  Vale Range End  3100
+Cluster:  10  Value Range Start:  3150  Vale Range End  3450
+Cluster:  11  Value Range Start:  3500  Vale Range End  3800
+Cluster:  12  Value Range Start:  3850  Vale Range End  4150
+Cluster:  13  Value Range Start:  4200  Vale Range End  4500

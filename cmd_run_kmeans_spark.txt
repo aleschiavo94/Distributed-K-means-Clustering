@@ -1,0 +1,9 @@
+Usage: kmeans [number_of_centers] [points_dimension] [input_file] [delta_convergence]
+
+spark-submit --master yarn kmeans.py 7 7 n10000d7k7.txt 150
+
+hadoop fs -rm -r output
+
+hadoop fs -cat output/part-*
+
+hadoop fs -put pg100.txt pg100.txt
