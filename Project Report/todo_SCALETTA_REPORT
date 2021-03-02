@@ -1,0 +1,20 @@
+//[Scaletta Project Report K-means Hadoop]
+
+	//1) Pseudo Codice: funzione Map, Combiner e Reducer;
+
+	//2) Diagramma funzionamento (come quello su GitHub) spiegato a parole;
+
+	//3) Riportiamo esempio dei risultati con dataset generati apposta con cluster divisi, 
+			//facendolo per le varie dimensioni chieste da lui
+
+			//data_set_1: [0, 800] [850, 1600] [1650, 2450] //sistemare dimensioni 
+
+
+
+//[Scaletta Project Report K-means Spark]
+
+	//1) Grafo delle trasformazioni (LINEAGE) come sulle sue slide con spiegazione a parole 
+
+	//2) Riportiamo esempio risultati come per Hadoop 
+
+

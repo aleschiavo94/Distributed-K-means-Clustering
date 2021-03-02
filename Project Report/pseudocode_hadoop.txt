@@ -1,0 +1,16 @@
+class MAPPER 
+	method MAP(offset key, dataset_line dl)
+		point P = parse_point(dl)
+		distance dist <- MAX_VALUE
+		for all centers C in cluster_centers do 
+			distance D <- distance(P, C)
+			if (D < dist) do 
+				D <- dist 
+				clusterIndex CI <- i 
+
+		Emit(clusterIndex CI, point P)
+
+class COMBINER...
+
+
+class REDUCER... 

@@ -1,0 +1,3 @@
+hadoop fs -rm -r output1 output2 output3 output4 output5 output6 output7 output8 output9 output10 output11 output12 output13 output14 output15 output16 output17 output18 output19 output20
+
+hadoop jar kmeans-Combiner.jar it.unipi.hadoop.Main data_set_.txt 5 output
